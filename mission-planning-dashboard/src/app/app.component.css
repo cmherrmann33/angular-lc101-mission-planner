@@ -2,3 +2,15 @@
     display: flex;
     padding: 10px;
  }
+
+ * {
+     font-family: 'Silkscreen';
+     src: 'assets/fonts/slkscr-webfont.ttf';
+
+
+ }
+
+ div {
+    background-color: darkolivegreen;
+    color: lemonchiffon;
+ }
